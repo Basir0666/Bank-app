@@ -31,6 +31,7 @@ pandas (CSV export)
 colorama (optional: colored CLI output)
 
 Setup Instructions
+
 1️) Clone Repository
 git clone https://github.com/Basir0666/bank-app.git
 cd bank-app
